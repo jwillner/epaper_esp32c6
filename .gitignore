@@ -1,0 +1,11 @@
+documents/
+
+# Arduino build artifacts
+build/
+*.bin
+*.elf
+*.map
+
+# OS
+.DS_Store
+Thumbs.db

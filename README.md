@@ -1,5 +1,7 @@
 # ESP32-C6-Zero + Waveshare 1.54" ePaper
 
+![ESP32-C6-Zero](images/esp32c6zero.jpg) ![Waveshare 1.54" ePaper](images/WeAct_Epaper1.54.png)
+
 Ein Arduino-Projekt für das **Waveshare ESP32-C6-Zero** Board mit einem **1.54" ePaper Display (200×200, SW/W)**.
 
 ---
